@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,17 +53,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -6954,6 +6954,43 @@ POWER MICRO USB  :  B TYPE MID-MOUNT</description>
 <rectangle x1="-0.44" y1="26" x2="0.45" y2="28.15" layer="21" rot="R90"/>
 <rectangle x1="23.66" y1="-1.1" x2="24.55" y2="1.05" layer="21"/>
 </package>
+<package name="BQ24032ARHLR">
+<description>IC, LI-ON LINEAR CHRG MGMT 20-QFN</description>
+<smd name="21" x="0" y="0" dx="3.05" dy="2.05" layer="1"/>
+<smd name="15" x="0.25" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="16" x="-0.25" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="5" x="-0.25" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="6" x="0.25" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="14" x="0.75" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="13" x="1.25" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="12" x="1.75" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="17" x="-0.75" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="18" x="-1.25" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="19" x="-1.75" y="2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="4" x="-0.75" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="3" x="-1.25" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="2" x="-1.75" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="7" x="0.75" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="8" x="1.25" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="9" x="1.75" y="-2.75" dx="0.3" dy="2.85" layer="1"/>
+<smd name="P$18" x="-2.25" y="-0.25" dx="0.85" dy="0.25" layer="1"/>
+<smd name="P$19" x="2.25" y="-0.25" dx="0.85" dy="0.25" layer="1"/>
+<smd name="P$20" x="-2.25" y="0.25" dx="0.85" dy="0.25" layer="1"/>
+<smd name="20" x="-3.25" y="0.75" dx="2.85" dy="0.25" layer="1"/>
+<smd name="1" x="-3.25" y="-0.75" dx="2.85" dy="0.25" layer="1"/>
+<smd name="P$23" x="2.25" y="0.25" dx="0.85" dy="0.25" layer="1"/>
+<smd name="11" x="3.25" y="0.75" dx="2.85" dy="0.25" layer="1"/>
+<smd name="10" x="3.25" y="-0.75" dx="2.85" dy="0.25" layer="1"/>
+<smd name="P$26" x="-1.6" y="0" dx="0.5" dy="0.75" layer="1"/>
+<smd name="P$27" x="1.6" y="0" dx="0.5" dy="0.75" layer="1"/>
+<wire x1="-3" y1="2" x2="3" y2="2" width="0.127" layer="21"/>
+<wire x1="3" y1="2" x2="3" y2="-2" width="0.127" layer="21"/>
+<wire x1="3" y1="-2" x2="-3" y2="-2" width="0.127" layer="21"/>
+<wire x1="-3" y1="-2" x2="-3" y2="2" width="0.127" layer="21"/>
+<text x="2.35" y="2.65" size="0.6096" layer="25">&gt;NAME</text>
+<text x="-5.8" y="2.5" size="0.6096" layer="27">&gt;VALUE</text>
+<circle x="-3" y="-2" radius="0.4" width="0.75" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="VL-1220/VCN">
@@ -7139,6 +7176,36 @@ POWER MICRO USB  :  B TYPE MID-MOUNT</description>
 <pin name="RESERVED14" x="58.42" y="-2.54" length="middle" direction="nc" rot="R180"/>
 <pin name="ADC1" x="58.42" y="0" length="middle" direction="in" rot="R180"/>
 <pin name="ADC0" x="58.42" y="2.54" length="middle" direction="in" rot="R180"/>
+</symbol>
+<symbol name="BQ24032ARHLR">
+<description>BQ24032ARHLR</description>
+<pin name="TS" x="20.32" y="0" length="middle" rot="R180"/>
+<pin name="BAT2" x="20.32" y="2.54" length="middle" rot="R180"/>
+<pin name="BAT1" x="20.32" y="5.08" length="middle" rot="R180"/>
+<pin name="OUT3" x="20.32" y="10.16" length="middle" rot="R180"/>
+<pin name="OUT2" x="20.32" y="12.7" length="middle" rot="R180"/>
+<pin name="OUT1" x="20.32" y="15.24" length="middle" rot="R180"/>
+<pin name="#USBPG" x="20.32" y="-5.08" length="middle" function="dot" rot="R180"/>
+<pin name="#ACPG" x="20.32" y="-7.62" length="middle" function="dot" rot="R180"/>
+<pin name="STAT1" x="20.32" y="-10.16" length="middle" rot="R180"/>
+<pin name="STAT2" x="20.32" y="-12.7" length="middle" rot="R180"/>
+<pin name="GND" x="20.32" y="-17.78" length="middle" rot="R180"/>
+<pin name="THERMAL" x="-20.32" y="-17.78" length="middle"/>
+<pin name="LDO" x="-20.32" y="-12.7" length="middle"/>
+<pin name="ISET2" x="-20.32" y="-10.16" length="middle"/>
+<pin name="TMR" x="-20.32" y="-5.08" length="middle"/>
+<pin name="DPPM" x="-20.32" y="-2.54" length="middle"/>
+<pin name="ISET1" x="-20.32" y="0" length="middle"/>
+<pin name="PSEL" x="-20.32" y="2.54" length="middle"/>
+<pin name="CE" x="-20.32" y="5.08" length="middle"/>
+<pin name="USB" x="-20.32" y="10.16" length="middle"/>
+<pin name="AC" x="-20.32" y="12.7" length="middle"/>
+<wire x1="-15.24" y1="17.78" x2="-15.24" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="-15.24" y1="-20.32" x2="15.24" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-20.32" x2="15.24" y2="17.78" width="0.254" layer="94"/>
+<wire x1="15.24" y1="17.78" x2="-15.24" y2="17.78" width="0.254" layer="94"/>
+<text x="-15.24" y="20.32" size="1.27" layer="95">&gt;NAME</text>
+<text x="-15.24" y="-22.86" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -7374,70 +7441,48 @@ POWER MICRO USB  :  B TYPE MID-MOUNT</description>
 </device>
 </devices>
 </deviceset>
+<deviceset name="BQ24032ARHLR" prefix="U">
+<description>BQ24032ARHLR</description>
+<gates>
+<gate name="G$1" symbol="BQ24032ARHLR" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="BQ24032ARHLR">
+<connects>
+<connect gate="G$1" pin="#ACPG" pad="18"/>
+<connect gate="G$1" pin="#USBPG" pad="19"/>
+<connect gate="G$1" pin="AC" pad="4"/>
+<connect gate="G$1" pin="BAT1" pad="5"/>
+<connect gate="G$1" pin="BAT2" pad="6"/>
+<connect gate="G$1" pin="CE" pad="9"/>
+<connect gate="G$1" pin="DPPM" pad="13"/>
+<connect gate="G$1" pin="GND" pad="11"/>
+<connect gate="G$1" pin="ISET1" pad="10"/>
+<connect gate="G$1" pin="ISET2" pad="7"/>
+<connect gate="G$1" pin="LDO" pad="1"/>
+<connect gate="G$1" pin="OUT1" pad="15"/>
+<connect gate="G$1" pin="OUT2" pad="16"/>
+<connect gate="G$1" pin="OUT3" pad="17"/>
+<connect gate="G$1" pin="PSEL" pad="8"/>
+<connect gate="G$1" pin="STAT1" pad="2"/>
+<connect gate="G$1" pin="STAT2" pad="3"/>
+<connect gate="G$1" pin="THERMAL" pad="21"/>
+<connect gate="G$1" pin="TMR" pad="14"/>
+<connect gate="G$1" pin="TS" pad="12"/>
+<connect gate="G$1" pin="USB" pad="20"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 <library name="texas-MOD">
 <description>&lt;b&gt;Texas Instruments Devices&lt;/b&gt;&lt;p&gt;
  &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="QFN20_3,5X4,5">
-<description>&lt;b&gt;RHL (R-PQFP-N20)&lt;/b&gt;&lt;p&gt;
-Set in DRC - Same Signals - SMD to SMD and SMD to PAD = 0.&lt;br&gt;
-Source: www.ti.com .. TI-bq24125.pdf</description>
-<wire x1="-2.275" y1="1.75" x2="2.275" y2="1.75" width="0.127" layer="51"/>
-<wire x1="2.275" y1="1.75" x2="2.275" y2="-1.75" width="0.127" layer="51"/>
-<wire x1="2.275" y1="-1.75" x2="-2.275" y2="-1.75" width="0.127" layer="51"/>
-<wire x1="-2.275" y1="-1.75" x2="-2.275" y2="1.75" width="0.127" layer="51"/>
-<wire x1="-2.275" y1="1.75" x2="-2.043" y2="1.75" width="0.127" layer="21"/>
-<wire x1="-2.275" y1="1.044" x2="-2.275" y2="1.75" width="0.127" layer="21"/>
-<wire x1="-2.275" y1="-1.75" x2="-2.275" y2="-1.044" width="0.127" layer="21"/>
-<wire x1="-2.043" y1="-1.75" x2="-2.275" y2="-1.75" width="0.127" layer="21"/>
-<wire x1="2.275" y1="-1.75" x2="2.043" y2="-1.75" width="0.127" layer="21"/>
-<wire x1="2.275" y1="-1.044" x2="2.275" y2="-1.75" width="0.127" layer="21"/>
-<wire x1="2.275" y1="1.75" x2="2.275" y2="1.044" width="0.127" layer="21"/>
-<wire x1="2.043" y1="1.75" x2="2.275" y2="1.75" width="0.127" layer="21"/>
-<smd name="6" x="0.25" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="7" x="0.75" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="8" x="1.25" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="9" x="1.75" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="5" x="-0.25" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="4" x="-0.75" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="3" x="-1.25" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="2" x="-1.75" y="-2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="19" x="-1.75" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="18" x="-1.25" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="17" x="-0.75" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="16" x="-0.25" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="15" x="0.25" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="14" x="0.75" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="13" x="1.25" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="12" x="1.75" y="2.725" dx="2.85" dy="0.28" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="1" x="-3.225" y="-0.75" dx="2.85" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="20" x="-3.225" y="0.75" dx="2.85" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="11" x="3.225" y="0.75" dx="2.85" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="10" x="3.225" y="-0.75" dx="2.85" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="EXP" x="0" y="0" dx="3.05" dy="2.05" layer="1" rot="R180" stop="no" cream="no"/>
-<smd name="EXP@12" x="1.75" y="0" dx="0.45" dy="0.4" layer="1" stop="no" cream="no"/>
-<smd name="EXP@11" x="-1.75" y="0" dx="0.45" dy="0.4" layer="1" stop="no" cream="no"/>
-<smd name="EXP@8" x="-2.075" y="-0.3" dx="1.125" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="EXP@7" x="-2.075" y="0.3" dx="1.125" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="EXP@9" x="2.075" y="0.3" dx="1.125" dy="0.28" layer="1" stop="no" cream="no"/>
-<smd name="EXP@10" x="2.075" y="-0.3" dx="1.125" dy="0.28" layer="1" stop="no" cream="no"/>
-<text x="3.81" y="2.54" size="1.27" layer="25">&gt;NAME</text>
-<text x="3.81" y="-3.556" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="-1.47" y1="-0.975" x2="-0.15" y2="-0.15" layer="31"/>
-<rectangle x1="-1.47" y1="0.15" x2="-0.15" y2="0.975" layer="31"/>
-<rectangle x1="0.15" y1="-0.975" x2="1.47" y2="-0.15" layer="31" rot="R180"/>
-<rectangle x1="0.15" y1="0.15" x2="1.47" y2="0.975" layer="31" rot="R180"/>
-<rectangle x1="-1.55" y1="-1.05" x2="1.55" y2="1.05" layer="29"/>
-<rectangle x1="-2.2225" y1="-1.7145" x2="-1.5" y2="-1" layer="21"/>
-<pad name="EXP@1" x="-1.0541" y="0.5588" drill="0.3302" diameter="0.6096" shape="square"/>
-<pad name="EXP@2" x="0" y="0.5588" drill="0.3302" diameter="0.6096" shape="square"/>
-<pad name="EXP@3" x="1.0541" y="0.5588" drill="0.3302" diameter="0.6096" shape="square"/>
-<pad name="EXP@4" x="-1.0541" y="-0.5588" drill="0.3302" diameter="0.6096" shape="square"/>
-<pad name="EXP@5" x="0" y="-0.5588" drill="0.3302" diameter="0.6096" shape="square"/>
-<pad name="EXP@6" x="1.0541" y="-0.5588" drill="0.3302" diameter="0.6096" shape="square"/>
-</package>
 <package name="DRC-S-PVSON-N10">
 <description>&lt;b&gt;DRK (S-PDSO-N10)&lt;/b&gt;&lt;p&gt;
 Source: www.ti.com .. bq27010.pdf&lt;br&gt;
@@ -7463,8 +7508,8 @@ changed 2011-11-09</description>
 <smd name="10" x="-1" y="2.475" dx="2.85" dy="0.28" layer="1" roundness="50" rot="R270" stop="no" cream="no"/>
 <text x="2.38" y="0.7" size="0.6096" layer="25">&gt;NAME</text>
 <text x="2.43" y="-0.96" size="0.6096" layer="27">&gt;VALUE</text>
-<rectangle x1="-1.925" y1="0.125" x2="-1.325" y2="0.425" layer="29"/>
-<rectangle x1="-1.925" y1="-0.425" x2="-1.325" y2="-0.125" layer="29"/>
+<rectangle x1="-1.925" y1="0.125" x2="-1.198" y2="0.425" layer="29"/>
+<rectangle x1="-1.925" y1="-0.425" x2="-1.198" y2="-0.125" layer="29"/>
 <rectangle x1="-1.225" y1="-0.85" x2="1.225" y2="0.85" layer="29"/>
 <rectangle x1="-1.9" y1="0.15" x2="-1.325" y2="0.4" layer="31"/>
 <rectangle x1="-1.9" y1="-0.4" x2="-1.325" y2="-0.15" layer="31"/>
@@ -7473,8 +7518,6 @@ changed 2011-11-09</description>
 <rectangle x1="0.15" y1="-0.8" x2="1.175" y2="-0.15" layer="31" rot="R180"/>
 <rectangle x1="0.15" y1="0.15" x2="1.175" y2="0.8" layer="31" rot="R180"/>
 <rectangle x1="-1.575" y1="-1.575" x2="0" y2="0" layer="51"/>
-<rectangle x1="1.325" y1="-0.425" x2="1.925" y2="-0.125" layer="29" rot="R180"/>
-<rectangle x1="1.325" y1="0.125" x2="1.925" y2="0.425" layer="29" rot="R180"/>
 <rectangle x1="1.325" y1="-0.4" x2="1.9" y2="-0.15" layer="31" rot="R180"/>
 <rectangle x1="1.325" y1="0.15" x2="1.9" y2="0.4" layer="31" rot="R180"/>
 <polygon width="0.1524" layer="1">
@@ -7503,39 +7546,31 @@ changed 2011-11-09</description>
 <pad name="EXP@2" x="-0.6592" y="-0.4131" drill="0.3302" diameter="0.6096" shape="square"/>
 <pad name="EXP@3" x="0.6616" y="0.4124" drill="0.3302" diameter="0.6096" shape="square"/>
 <pad name="EXP@4" x="0.6616" y="-0.4131" drill="0.3302" diameter="0.6096" shape="square"/>
+<rectangle x1="-1.143" y1="1.0414" x2="-0.8636" y2="3.8862" layer="31"/>
+<rectangle x1="-0.635" y1="1.0414" x2="-0.3556" y2="3.8862" layer="31"/>
+<rectangle x1="-0.1524" y1="1.0414" x2="0.127" y2="3.8862" layer="31"/>
+<rectangle x1="0.3556" y1="1.0414" x2="0.635" y2="3.8862" layer="31"/>
+<rectangle x1="0.8636" y1="1.0414" x2="1.143" y2="3.8862" layer="31"/>
+<rectangle x1="-1.143" y1="-3.9116" x2="-0.8636" y2="-1.0668" layer="31"/>
+<rectangle x1="-0.635" y1="-3.9116" x2="-0.3556" y2="-1.0668" layer="31"/>
+<rectangle x1="-0.127" y1="-3.9116" x2="0.1524" y2="-1.0668" layer="31"/>
+<rectangle x1="0.3556" y1="-3.9116" x2="0.635" y2="-1.0668" layer="31"/>
+<rectangle x1="0.8636" y1="-3.9116" x2="1.143" y2="-1.0668" layer="31"/>
+<rectangle x1="-1.2192" y1="-3.9624" x2="-0.7874" y2="-0.9652" layer="29"/>
+<rectangle x1="-0.7112" y1="-3.9624" x2="-0.2794" y2="-0.9652" layer="29"/>
+<rectangle x1="-0.2032" y1="-3.9624" x2="0.2286" y2="-0.9652" layer="29"/>
+<rectangle x1="0.3048" y1="-3.9624" x2="0.7366" y2="-0.9652" layer="29"/>
+<rectangle x1="0.8128" y1="-3.9624" x2="1.2446" y2="-0.9652" layer="29"/>
+<rectangle x1="-1.2192" y1="0.9652" x2="-0.7874" y2="3.9624" layer="29"/>
+<rectangle x1="-0.7112" y1="0.9652" x2="-0.2794" y2="3.9624" layer="29"/>
+<rectangle x1="-0.2032" y1="0.9652" x2="0.2286" y2="3.9624" layer="29"/>
+<rectangle x1="0.2794" y1="0.9652" x2="0.7112" y2="3.9624" layer="29"/>
+<rectangle x1="0.7874" y1="0.9652" x2="1.2192" y2="3.9624" layer="29"/>
+<rectangle x1="1.1992" y1="0.125" x2="1.9262" y2="0.425" layer="29"/>
+<rectangle x1="1.1992" y1="-0.4084" x2="1.9262" y2="-0.1084" layer="29"/>
 </package>
 </packages>
 <symbols>
-<symbol name="BQ24032ARHLR">
-<description>BQ24032ARHLR</description>
-<pin name="TS" x="20.32" y="0" length="middle" rot="R180"/>
-<pin name="BAT2" x="20.32" y="2.54" length="middle" rot="R180"/>
-<pin name="BAT1" x="20.32" y="5.08" length="middle" rot="R180"/>
-<pin name="OUT3" x="20.32" y="10.16" length="middle" rot="R180"/>
-<pin name="OUT2" x="20.32" y="12.7" length="middle" rot="R180"/>
-<pin name="OUT1" x="20.32" y="15.24" length="middle" rot="R180"/>
-<pin name="#USBPG" x="20.32" y="-5.08" length="middle" function="dot" rot="R180"/>
-<pin name="#ACPG" x="20.32" y="-7.62" length="middle" function="dot" rot="R180"/>
-<pin name="STAT1" x="20.32" y="-10.16" length="middle" rot="R180"/>
-<pin name="STAT2" x="20.32" y="-12.7" length="middle" rot="R180"/>
-<pin name="GND" x="20.32" y="-17.78" length="middle" rot="R180"/>
-<pin name="LDO" x="-20.32" y="-12.7" length="middle"/>
-<pin name="ISET2" x="-20.32" y="-10.16" length="middle"/>
-<pin name="TMR" x="-20.32" y="-5.08" length="middle"/>
-<pin name="DPPM" x="-20.32" y="-2.54" length="middle"/>
-<pin name="ISET1" x="-20.32" y="0" length="middle"/>
-<pin name="PSEL" x="-20.32" y="2.54" length="middle"/>
-<pin name="CE" x="-20.32" y="5.08" length="middle"/>
-<pin name="USB" x="-20.32" y="10.16" length="middle"/>
-<pin name="AC" x="-20.32" y="12.7" length="middle"/>
-<wire x1="-15.24" y1="17.78" x2="-15.24" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="-15.24" y1="-20.32" x2="15.24" y2="-20.32" width="0.254" layer="94"/>
-<wire x1="15.24" y1="-20.32" x2="15.24" y2="17.78" width="0.254" layer="94"/>
-<wire x1="15.24" y1="17.78" x2="-15.24" y2="17.78" width="0.254" layer="94"/>
-<text x="-15.24" y="20.32" size="1.27" layer="95">&gt;NAME</text>
-<text x="-15.24" y="-22.86" size="1.27" layer="96">&gt;VALUE</text>
-<pin name="THERMAL" x="-20.32" y="-17.78" length="middle" direction="pwr"/>
-</symbol>
 <symbol name="TPS6300X">
 <wire x1="-10.16" y1="10.16" x2="-10.16" y2="-10.16" width="0.254" layer="94"/>
 <wire x1="-10.16" y1="-10.16" x2="10.16" y2="-10.16" width="0.254" layer="94"/>
@@ -7556,44 +7591,6 @@ changed 2011-11-09</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="BQ24032ARHLR" prefix="U">
-<description>BQ24032A:
-
- Dual Input Li-Ion Charger with Dynamic Power Path, Output regulated to 4.4V, Vbat 4.2V</description>
-<gates>
-<gate name="G$1" symbol="BQ24032ARHLR" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="QFN20_3,5X4,5">
-<connects>
-<connect gate="G$1" pin="#ACPG" pad="18"/>
-<connect gate="G$1" pin="#USBPG" pad="19"/>
-<connect gate="G$1" pin="AC" pad="4"/>
-<connect gate="G$1" pin="BAT1" pad="5"/>
-<connect gate="G$1" pin="BAT2" pad="6"/>
-<connect gate="G$1" pin="CE" pad="9"/>
-<connect gate="G$1" pin="DPPM" pad="13"/>
-<connect gate="G$1" pin="GND" pad="11"/>
-<connect gate="G$1" pin="ISET1" pad="10"/>
-<connect gate="G$1" pin="ISET2" pad="7"/>
-<connect gate="G$1" pin="LDO" pad="1"/>
-<connect gate="G$1" pin="OUT1" pad="15"/>
-<connect gate="G$1" pin="OUT2" pad="16"/>
-<connect gate="G$1" pin="OUT3" pad="17"/>
-<connect gate="G$1" pin="PSEL" pad="8"/>
-<connect gate="G$1" pin="STAT1" pad="2"/>
-<connect gate="G$1" pin="STAT2" pad="3"/>
-<connect gate="G$1" pin="THERMAL" pad="EXP EXP@1 EXP@2 EXP@3 EXP@4 EXP@5 EXP@6 EXP@7 EXP@8 EXP@9 EXP@10 EXP@11 EXP@12"/>
-<connect gate="G$1" pin="TMR" pad="14"/>
-<connect gate="G$1" pin="TS" pad="12"/>
-<connect gate="G$1" pin="USB" pad="20"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
 <deviceset name="TPS6300*" prefix="IC">
 <description>&lt;b&gt;HIGH EFFICIENT SINGLE INDUCTOR BUCK-BOOST CONVERTER WITH 1.8-A SWITCHES&lt;/b&gt;&lt;p&gt;
 Source: http://focus.ti.com/lit/ds/symlink/tps63001.pdf</description>
@@ -14050,7 +14047,7 @@ EAGLE CAD Libraries on element14&lt;/a&gt;</description>
 <part name="R417" library="rcl" deviceset="R-US_" device="R0603" value="100K"/>
 <part name="D420" library="ppajuel_library" deviceset="STPS340U" device=""/>
 <part name="R420" library="rcl" deviceset="R-US_" device="R0402" value="0R"/>
-<part name="U410" library="texas-MOD" deviceset="BQ24032ARHLR" device=""/>
+<part name="U410" library="ppajuel_library" deviceset="BQ24032ARHLR" device=""/>
 <part name="U420" library="texas-MOD" deviceset="TPS6300*" device="" value="TPS63002DRC"/>
 <part name="L420" library="ppajuel_library" deviceset="SDR0403" device="" value="SDR0403-2R2ML"/>
 <part name="D421" library="ppajuel_library" deviceset="STPS340U" device=""/>
